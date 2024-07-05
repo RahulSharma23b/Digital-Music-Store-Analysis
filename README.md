@@ -10,4 +10,5 @@ This project is for beginners and will teach you how to analyze the music playli
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](C:\Users\HP\Desktop\My Portfolio\SQL\Digital-Music-Store-Analysis\MusicDatabaseSchema.png)
+
+![MusicDatabaseSchema](https://github.com/RahulSharma23b/Digital-Music-Store-Analysis/assets/92786939/73272786-72a3-4df9-b21e-19dcb31da54b)
